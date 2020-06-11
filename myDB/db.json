@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "fName": "Кочергин",
+      "sName": "Глеб",
+      "tName": "ЫФВФЫВ",
+      "phone": "+8 (9178) 55-77-66",
+      "favorite": false,
+      "id": 1
+    },
+    {
+      "fName": "Блаблабла",
+      "sName": "апр",
+      "tName": "апр",
+      "phone": "123123",
+      "favorite": "",
+      "id": 2
+    },
+    {
+      "fName": "Блаблабла",
+      "sName": "апр",
+      "tName": "апр",
+      "phone": "123123",
+      "favorite": true,
+      "id": 3
+    }
+  ]
+}
